@@ -1,0 +1,125 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 2248 >>
+stream
+BT
+/F1 10 Tf
+50 790 Td
+14 TL
+(Movie Dataset Collection - Part 1) Tj
+T*
+() Tj
+T*
+(Collection decisions:) Tj
+T*
+(I collected movies only, with release years up to and including 2024.) Tj
+T*
+(I kept movies with runtime between 60 and 300 minutes. OMDb supplied the IMDb) Tj
+T*
+(title id, title, year, genres, runtime, rating, votes and plot. Wikipedia infobox) Tj
+T*
+(pages were used for budget, worldwide gross, language and country when available.) Tj
+T*
+(Wikidata was used to match the leading actor names to IMDb name identifiers.) Tj
+T*
+() Tj
+T*
+(Number of movies collected: 94) Tj
+T*
+() Tj
+T*
+(Field description and source:) Tj
+T*
+(tconst: IMDb title id, from OMDb/IMDb.) Tj
+T*
+(primaryTitle: movie title, from OMDb.) Tj
+T*
+(startYear: release year, from OMDb.) Tj
+T*
+(genres: list of genres as supplied by OMDb.) Tj
+T*
+(lead_actors_ids: up to five IMDb actor ids, matched from OMDb actor names with Wikidata.) Tj
+T*
+(runtimeMinutes: runtime in minutes, from OMDb.) Tj
+T*
+(averageRating: IMDb average rating, from OMDb.) Tj
+T*
+(Language: primary language, Wikipedia first, OMDb fallback.) Tj
+T*
+(Country: production country, Wikipedia first, OMDb fallback.) Tj
+T*
+(numVotes: number of IMDb votes, from OMDb.) Tj
+T*
+(budget: production budget in USD millions, from Wikipedia when available.) Tj
+T*
+(BoxOffice: global box office in USD millions, Wikipedia first, OMDb fallback.) Tj
+T*
+(plot: short plot summary, from OMDb.) Tj
+T*
+() Tj
+T*
+(Missing values by column:) Tj
+T*
+(tconst: 0 missing \(0.0%\)) Tj
+T*
+(primaryTitle: 0 missing \(0.0%\)) Tj
+T*
+(startYear: 0 missing \(0.0%\)) Tj
+T*
+(genres: 0 missing \(0.0%\)) Tj
+T*
+(lead_actors_ids: 0 missing \(0.0%\)) Tj
+T*
+(runtimeMinutes: 0 missing \(0.0%\)) Tj
+T*
+(averageRating: 0 missing \(0.0%\)) Tj
+T*
+(Language: 0 missing \(0.0%\)) Tj
+T*
+(Country: 0 missing \(0.0%\)) Tj
+T*
+(numVotes: 0 missing \(0.0%\)) Tj
+T*
+(budget: 16 missing \(17.02%\)) Tj
+T*
+(BoxOffice: 1 missing \(1.06%\)) Tj
+T*
+(plot: 0 missing \(0.0%\)) Tj
+T*
+() Tj
+T*
+(Notes:) Tj
+T*
+(Budget and worldwide gross are the least complete fields because many Wikipedia) Tj
+T*
+(infoboxes do not include them or write them in a format that is hard to normalize.) Tj
+T*
+(All monetary values in dataset.csv are stored as USD millions.) Tj
+T*
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000311 00000 n 
+trailer << /Size 6 /Root 1 0 R >>
+startxref
+2611
+%%EOF

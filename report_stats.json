@@ -1,0 +1,57 @@
+{
+  "movie_count": 94,
+  "missing": {
+    "tconst": {
+      "missing_count": 0,
+      "missing_percent": 0.0
+    },
+    "primaryTitle": {
+      "missing_count": 0,
+      "missing_percent": 0.0
+    },
+    "startYear": {
+      "missing_count": 0,
+      "missing_percent": 0.0
+    },
+    "genres": {
+      "missing_count": 0,
+      "missing_percent": 0.0
+    },
+    "lead_actors_ids": {
+      "missing_count": 0,
+      "missing_percent": 0.0
+    },
+    "runtimeMinutes": {
+      "missing_count": 0,
+      "missing_percent": 0.0
+    },
+    "averageRating": {
+      "missing_count": 0,
+      "missing_percent": 0.0
+    },
+    "Language": {
+      "missing_count": 0,
+      "missing_percent": 0.0
+    },
+    "Country": {
+      "missing_count": 0,
+      "missing_percent": 0.0
+    },
+    "numVotes": {
+      "missing_count": 0,
+      "missing_percent": 0.0
+    },
+    "budget": {
+      "missing_count": 16,
+      "missing_percent": 17.02
+    },
+    "BoxOffice": {
+      "missing_count": 1,
+      "missing_percent": 1.06
+    },
+    "plot": {
+      "missing_count": 0,
+      "missing_percent": 0.0
+    }
+  }
+}
