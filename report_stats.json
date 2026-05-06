@@ -1,0 +1,61 @@
+{
+  "movie_count": 7435,
+  "team_letter": "M",
+  "require_wikipedia_page": false,
+  "wikipedia_enriched_count": 7435,
+  "wikipedia_core_complete_count": 5675,
+  "missing": {
+    "tconst": {
+      "missing_count": 0,
+      "missing_percent": 0.0
+    },
+    "primaryTitle": {
+      "missing_count": 0,
+      "missing_percent": 0.0
+    },
+    "startYear": {
+      "missing_count": 0,
+      "missing_percent": 0.0
+    },
+    "genres": {
+      "missing_count": 9,
+      "missing_percent": 0.12
+    },
+    "lead_actors_ids": {
+      "missing_count": 453,
+      "missing_percent": 6.09
+    },
+    "runtimeMinutes": {
+      "missing_count": 0,
+      "missing_percent": 0.0
+    },
+    "averageRating": {
+      "missing_count": 0,
+      "missing_percent": 0.0
+    },
+    "Language": {
+      "missing_count": 315,
+      "missing_percent": 4.24
+    },
+    "Country": {
+      "missing_count": 364,
+      "missing_percent": 4.9
+    },
+    "numVotes": {
+      "missing_count": 0,
+      "missing_percent": 0.0
+    },
+    "budget": {
+      "missing_count": 5424,
+      "missing_percent": 72.95
+    },
+    "BoxOffice": {
+      "missing_count": 4788,
+      "missing_percent": 64.4
+    },
+    "plot": {
+      "missing_count": 1458,
+      "missing_percent": 19.61
+    }
+  }
+}
